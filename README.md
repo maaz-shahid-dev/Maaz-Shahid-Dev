@@ -32,8 +32,8 @@ Passionate Flutter developer focused on building beautiful, performant, and scal
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=maaz-shahid-dev.maaz-shahid-dev)
 
 ### 📬 Let's Connect
-- LinkedIn: [linkedin.com/in/maaz-shahid-dev](https://linkedin.com/in/maaz-shahid-dev) (feel free to add your real link)
-- Email: maaz.shahid.dev@gmail.com (or your business email)
+
+- Email: m.maazshahid2003@gmail.com (or your business email)
 - Portfolio: Coming soon...
 
 ---
