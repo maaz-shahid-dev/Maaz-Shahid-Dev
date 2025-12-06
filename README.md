@@ -24,10 +24,6 @@ Passionate Flutter developer focused on building beautiful, performant, and scal
 - **Architecture**: Clean Architecture, MVVM, Feature-first structure
 - **Others**: REST APIs, Dio, Hive, SQLite, Google Maps, Charts, Animations
 
-### 📊 GitHub Stats
-![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaz-shahid-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-shahid-dev&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 🌙 Dark Mode Lover
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=maaz-shahid-dev.maaz-shahid-dev)
 
